@@ -1,16 +1,26 @@
-## Hi there 👋
+# 0xVanityLab
 
-<!--
-**0xvanitylab/0xvanitylab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EVM vanity address mining**
 
-Here are some ideas to get you started:
+## Patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Leading / trailing zeros
+- Custom words
+- Uniswap V4 hooks
+- Palindromes
+- Custom prefix / suffix
+
+## Types
+
+- CREATE / CREATE2 / CREATE3 — any factory
+- EOA — split-key delivery on request
+
+## Multi-chain
+
+CreateX deployable identical on 15+ EVM chains (Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche, BSC, Linea, Scroll, zkSync, Mantle, Fantom, and others).
+
+## Contact
+
+X: [@0xvanitylab](https://x.com/0xvanitylab)
+
+DM for inventory and custom requests.
