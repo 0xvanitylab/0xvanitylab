@@ -12,8 +12,9 @@
 
 ## Types
 
-- CREATE / CREATE2 / CREATE3 — any factory
-- EOA — split-key delivery on request
+- **CREATE3 inventory ready** — multi-chain via CreateX
+- CREATE / CREATE2 / EOA on demand
+- EOA split-key delivery on request
 
 ## Multi-chain
 
